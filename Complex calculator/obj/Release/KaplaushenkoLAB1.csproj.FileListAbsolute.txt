@@ -1,0 +1,2 @@
+C:\Users\mariia\source\repos\KaplaushenkoLAB1\obj\Release\KaplaushenkoLAB1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mariia\source\repos\KaplaushenkoLAB1\obj\Release\KaplaushenkoLAB1.csproj.CoreCompileInputs.cache

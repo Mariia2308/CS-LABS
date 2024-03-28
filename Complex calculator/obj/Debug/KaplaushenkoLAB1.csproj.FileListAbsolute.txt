@@ -1,0 +1,8 @@
+C:\Users\mariia\source\repos\KaplaushenkoLAB1\bin\Debug\KaplaushenkoLAB1.exe.config
+C:\Users\mariia\source\repos\KaplaushenkoLAB1\bin\Debug\KaplaushenkoLAB1.exe
+C:\Users\mariia\source\repos\KaplaushenkoLAB1\bin\Debug\KaplaushenkoLAB1.pdb
+C:\Users\mariia\source\repos\KaplaushenkoLAB1\obj\Debug\KaplaushenkoLAB1.csproj.AssemblyReference.cache
+C:\Users\mariia\source\repos\KaplaushenkoLAB1\obj\Debug\KaplaushenkoLAB1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mariia\source\repos\KaplaushenkoLAB1\obj\Debug\KaplaushenkoLAB1.csproj.CoreCompileInputs.cache
+C:\Users\mariia\source\repos\KaplaushenkoLAB1\obj\Debug\KaplaushenkoLAB1.exe
+C:\Users\mariia\source\repos\KaplaushenkoLAB1\obj\Debug\KaplaushenkoLAB1.pdb

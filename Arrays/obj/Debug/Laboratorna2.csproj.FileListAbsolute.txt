@@ -1,0 +1,8 @@
+C:\Users\mariia\source\repos\Laboratorna2\bin\Debug\Laboratorna2.exe.config
+C:\Users\mariia\source\repos\Laboratorna2\bin\Debug\Laboratorna2.exe
+C:\Users\mariia\source\repos\Laboratorna2\bin\Debug\Laboratorna2.pdb
+C:\Users\mariia\source\repos\Laboratorna2\obj\Debug\Laboratorna2.csproj.AssemblyReference.cache
+C:\Users\mariia\source\repos\Laboratorna2\obj\Debug\Laboratorna2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mariia\source\repos\Laboratorna2\obj\Debug\Laboratorna2.csproj.CoreCompileInputs.cache
+C:\Users\mariia\source\repos\Laboratorna2\obj\Debug\Laboratorna2.exe
+C:\Users\mariia\source\repos\Laboratorna2\obj\Debug\Laboratorna2.pdb
